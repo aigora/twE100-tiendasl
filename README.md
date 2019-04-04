@@ -1,11 +1,15 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+El trabajo es acerca de un concesionario, con los vehículos que se ofertan y diferentes descuentos en base a la fidelidad o no del cliente.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Guillermo García Marugán - guillemaru96
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+- Desarrollar un código robusto a prueba de fallos.
+
+- Implementar un programa con variedad de opciones para el cliente.
+
+- Hacer que el programa sea fácilmente entendible para el usuario.
